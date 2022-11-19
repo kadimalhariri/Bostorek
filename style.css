@@ -27,6 +27,9 @@ header ul li a {
     text-decoration: none;
     
 }
+header ul li a:hover {
+    color: #47B99E;
+}
 header input {
     float: right;
     margin-top: -26px;
@@ -73,7 +76,7 @@ header input {
     /* background-color: yellow; */
     float: right;
     width: 50%;
-    height: 320px;
+    height: 420px;
 }
 .first {
     text-align: center;
